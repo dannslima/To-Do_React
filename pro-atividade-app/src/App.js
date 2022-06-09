@@ -59,7 +59,7 @@ function App() {
                   teste do git
               </h5>
               <h6>
-                    prioridade
+                    prioridadessss
               </h6>
   
             </div>
