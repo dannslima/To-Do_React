@@ -56,7 +56,7 @@ function App() {
           <div class="card-body">
             <div className='d-flex justify-content-between'>
               <h5 className='card-title'>
-                  teste
+                  teste do git
               </h5>
               <h6>
                     prioridade
